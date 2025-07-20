@@ -217,7 +217,7 @@ python test.py
 **Run Streamlit App:**
 
 ```bash
-streamlit run fashion_demo.py
+streamlit run streamlit_gui.py
 ```
 
 **Access Interface:**
